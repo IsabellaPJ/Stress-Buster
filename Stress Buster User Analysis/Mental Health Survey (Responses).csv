@@ -1,0 +1,111 @@
+Timestamp,Age,Gender,"In the past month, have you felt sad or down more often than usual?",Have you been experiencing difficulty sleeping or sleeping too much lately?,Have you had thoughts of harming yourself or others?,Do you feel like you have support from friends or family when you need it?,Do you feel like you are able to manage your stress levels effectively?,What activities do you find help you to relax and de-stress?,Are you able to take regular breaks throughout the day to give your mind and body a chance to rest?,How much do you rate your mental stability?,Your current mental state
+3/28/2023 15:00:40,20-30,Female,Yes,Yes,No,Yes,No,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:00:49,20-30,Female,Yes,Yes,No,Yes,Yes,Talking with someone,No,3,Stressful/Depressed
+3/28/2023 15:02:31,20-30,Male,Yes,Yes,Yes,Yes,No,Playing Games,Yes,3,Stable
+3/28/2023 15:06:31,20-30,Female,Yes,Yes,Yes,Yes,Yes,Talking with someone,Yes,3,Stable
+3/28/2023 15:06:54,20-30,Male,Yes,No,No,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 15:09:48,20-30,Female,Yes,No,No,No,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:14:14,20-30,Male,Yes,Yes,Yes,No,Yes,Reading Books,Yes,5,Joyful
+3/28/2023 15:15:49,20-30,Male,Yes,No,Yes,Yes,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:30:11,20-30,Female,Yes,No,Yes,Yes,Yes,Playing Games,Yes,4,Stable
+3/28/2023 15:32:53,20-30,Male,Yes,Yes,Yes,Yes,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:34:28,20-30,Male,Yes,No,No,No,Yes,Playing Games,Yes,2,Stressful/Depressed
+3/28/2023 15:34:50,30-40,Male,Yes,No,No,Yes,No,Playing Games,No,2,Stable
+3/28/2023 15:35:09,30-40,Male,No,No,No,No,No,Playing Games,No,4,Stable
+3/28/2023 15:36:30,20-30,Male,Yes,No,Yes,Yes,No,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:36:31,20-30,Male,Yes,No,Yes,Yes,Yes,Playing Games,No,3,Stressful/Depressed
+3/28/2023 15:38:05,30-40,Male,Yes,No,Yes,Yes,Yes,Playing Games,No,2,Stressful/Depressed
+3/28/2023 15:38:38,Above 40,Female,Yes,Yes,Yes,No,No,Playing Games,No,2,Stressful/Depressed
+3/28/2023 15:39:39,20-30,Female,Yes,Yes,Yes,Yes,No,Playing Games,Yes,2,Stressful/Depressed
+3/28/2023 15:41:17,Above 40,Female,Yes,No,Yes,No,Yes,Playing Games,Yes,2,Stressful/Depressed
+3/28/2023 15:42:24,20-30,Male,Yes,No,Yes,Yes,Yes,Playing Games,Yes,5,Stable
+3/28/2023 15:46:37,20-30,Female,Yes,Yes,Yes,No,No,Playing Games,No,2,Stressful/Depressed
+3/28/2023 15:47:38,30-40,Female,No,No,No,No,Yes,Reading Books,Yes,3,Joyful
+3/28/2023 15:50:19,Above 40,Male,Yes,Yes,Yes,No,No,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:50:38,30-40,Female,Yes,Yes,Yes,No,No,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:51:09,20-30,Male,Yes,Yes,Yes,Yes,No,Playing Games,No,2,Stressful/Depressed
+3/28/2023 15:51:28,20-30,Male,Yes,Yes,Yes,Yes,No,Playing Games,Yes,2,Stressful/Depressed
+3/28/2023 15:52:19,20-30,Female,Yes,Yes,No,Yes,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:53:14,20-30,Male,Yes,Yes,No,No,Yes,Talking with someone,No,3,Stressful/Depressed
+3/28/2023 15:53:21,20-30,Male,Yes,Yes,Yes,No,Yes,Talking with someone,No,4,Stable
+3/28/2023 15:53:45,30-40,Female,Yes,Yes,No,No,Yes,Reading Books,No,2,Stressful/Depressed
+3/28/2023 15:54:08,20-30,Female,Yes,Yes,Yes,No,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:54:09,20-30,Female,Yes,No,Yes,Yes,No,Playing Games,No,3,Stressful/Depressed
+3/28/2023 15:54:43,20-30,Female,Yes,No,Yes,Yes,Yes,Playing Games,No,2,Stressful/Depressed
+3/28/2023 17:55:04,20-30,Female,No,Yes,Yes,Yes,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 20:51:36,Above 40,Female,Yes,Yes,Yes,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 20:55:54,20-30,Female,Yes,Yes,No,Yes,Yes,Talking with someone,No,3,Stable
+3/28/2023 20:56:35,Above 40,Female,Yes,Yes,No,No,No,Reading Books,No,3,Stressful/Depressed
+3/28/2023 21:07:17,20-30,Female,Yes,Yes,No,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 21:09:57,20-30,Male,Yes,Yes,Yes,Yes,No,Talking with someone,No,2,Stressful/Depressed
+3/28/2023 21:12:29,20-30,Male,Yes,No,Yes,Yes,Yes,Playing Games,Yes,4,Stable
+3/28/2023 21:28:26,20-30,Female,Yes,No,No,Yes,Yes,Playing Games,Yes,5,Stable
+3/28/2023 21:30:37,Above 40,Female,No,No,Yes,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 21:34:20,Above 40,Female,No,No,No,No,Yes,Playing Games,Yes,4,Joyful
+3/28/2023 21:41:25,Above 40,Female,Yes,No,No,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 21:43:08,Above 40,Female,No,No,No,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 21:46:20,Above 40,Female,No,No,No,Yes,Yes,Playing Games,Yes,5,Stable
+3/28/2023 21:59:26,Above 40,Female,Yes,Yes,No,Yes,Yes,Reading Books,Yes,4,Stable
+3/28/2023 22:16:44,20-30,Female,Yes,Yes,No,Yes,Yes,Talking with someone,Yes,3,Stable
+3/28/2023 22:50:26,20-30,Female,No,No,No,No,Yes,Reading Books,Yes,4,Stable
+3/29/2023 6:24:27,Above 40,Female,No,No,No,No,Yes,Playing Games,Yes,1,Joyful
+3/29/2023 6:26:14,Above 40,Female,No,No,No,No,Yes,Playing Games,Yes,1,Joyful
+3/29/2023 8:07:40,Above 40,Male,No,No,No,Yes,No,Playing Games,No,2,Stable
+3/29/2023 13:04:07,Above 40,Female,No,No,No,No,Yes,Playing Games,Yes,1,Joyful
+3/29/2023 16:27:36,20-30,Female,Yes,Yes,Yes,No,No,Playing Games,No,3,Stressful/Depressed
+3/30/2023 18:01:14,20-30,Male,Yes,No,Yes,No,No,Playing Games,Yes,2,Stressful/Depressed
+3/28/2023 15:00:40,20-30,Female,Yes,Yes,No,Yes,No,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:00:49,20-30,Female,Yes,Yes,No,Yes,Yes,Talking with someone,No,3,Stressful/Depressed
+3/28/2023 15:02:31,20-30,Male,Yes,Yes,Yes,Yes,No,Playing Games,Yes,3,Stable
+3/28/2023 15:06:31,20-30,Female,Yes,Yes,Yes,Yes,Yes,Talking with someone,Yes,3,Stable
+3/28/2023 15:06:54,20-30,Male,Yes,No,No,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 15:09:48,20-30,Female,Yes,No,No,No,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:14:14,20-30,Male,Yes,Yes,Yes,No,Yes,Reading Books,Yes,5,Joyful
+3/28/2023 15:15:49,20-30,Male,Yes,No,Yes,Yes,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:30:11,20-30,Female,Yes,No,Yes,Yes,Yes,Playing Games,Yes,4,Stable
+3/28/2023 15:32:53,20-30,Male,Yes,Yes,Yes,Yes,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:34:28,20-30,Male,Yes,No,No,No,Yes,Playing Games,Yes,2,Stressful/Depressed
+3/28/2023 15:34:50,30-40,Male,Yes,No,No,Yes,No,Playing Games,No,2,Stable
+3/28/2023 15:35:09,30-40,Male,No,No,No,No,No,Playing Games,No,4,Stable
+3/28/2023 15:36:30,20-30,Male,Yes,No,Yes,Yes,No,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:36:31,20-30,Male,Yes,No,Yes,Yes,Yes,Playing Games,No,3,Stressful/Depressed
+3/28/2023 15:38:05,30-40,Male,Yes,No,Yes,Yes,Yes,Playing Games,No,2,Stressful/Depressed
+3/28/2023 15:38:38,Above 40,Female,Yes,Yes,Yes,No,No,Playing Games,No,2,Stressful/Depressed
+3/28/2023 15:39:39,20-30,Female,Yes,Yes,Yes,Yes,No,Playing Games,Yes,2,Stressful/Depressed
+3/28/2023 15:41:17,Above 40,Female,Yes,No,Yes,No,Yes,Playing Games,Yes,2,Stressful/Depressed
+3/28/2023 15:42:24,20-30,Male,Yes,No,Yes,Yes,Yes,Playing Games,Yes,5,Stable
+3/28/2023 15:46:37,20-30,Female,Yes,Yes,Yes,No,No,Playing Games,No,2,Stressful/Depressed
+3/28/2023 15:47:38,30-40,Female,No,No,No,No,Yes,Reading Books,Yes,3,Joyful
+3/28/2023 15:50:19,Above 40,Male,Yes,Yes,Yes,No,No,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:50:38,30-40,Female,Yes,Yes,Yes,No,No,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:51:09,20-30,Male,Yes,Yes,Yes,Yes,No,Playing Games,No,2,Stressful/Depressed
+3/28/2023 15:51:28,20-30,Male,Yes,Yes,Yes,Yes,No,Playing Games,Yes,2,Stressful/Depressed
+3/28/2023 15:52:19,20-30,Female,Yes,Yes,No,Yes,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:53:14,20-30,Male,Yes,Yes,No,No,Yes,Talking with someone,No,3,Stressful/Depressed
+3/28/2023 15:53:21,20-30,Male,Yes,Yes,Yes,No,Yes,Talking with someone,No,4,Stable
+3/28/2023 15:53:45,30-40,Female,Yes,Yes,No,No,Yes,Reading Books,No,2,Stressful/Depressed
+3/28/2023 15:54:08,20-30,Female,Yes,Yes,Yes,No,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 15:54:09,20-30,Female,Yes,No,Yes,Yes,No,Playing Games,No,3,Stressful/Depressed
+3/28/2023 15:54:43,20-30,Female,Yes,No,Yes,Yes,Yes,Playing Games,No,2,Stressful/Depressed
+3/28/2023 17:55:04,20-30,Female,No,Yes,Yes,Yes,Yes,Playing Games,Yes,3,Stressful/Depressed
+3/28/2023 20:51:36,Above 40,Female,Yes,Yes,Yes,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 20:55:54,20-30,Female,Yes,Yes,No,Yes,Yes,Talking with someone,No,3,Stable
+3/28/2023 20:56:35,Above 40,Female,Yes,Yes,No,No,No,Reading Books,No,3,Stressful/Depressed
+3/28/2023 21:07:17,20-30,Female,Yes,Yes,No,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 21:09:57,20-30,Male,Yes,Yes,Yes,Yes,No,Talking with someone,No,2,Stressful/Depressed
+3/28/2023 21:12:29,20-30,Male,Yes,No,Yes,Yes,Yes,Playing Games,Yes,4,Stable
+3/28/2023 21:28:26,20-30,Female,Yes,No,No,Yes,Yes,Playing Games,Yes,5,Stable
+3/28/2023 21:30:37,Above 40,Female,No,No,Yes,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 21:34:20,Above 40,Female,No,No,No,No,Yes,Playing Games,Yes,4,Joyful
+3/28/2023 21:41:25,Above 40,Female,Yes,No,No,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 21:43:08,Above 40,Female,No,No,No,Yes,Yes,Playing Games,Yes,3,Stable
+3/28/2023 21:46:20,Above 40,Female,No,No,No,Yes,Yes,Playing Games,Yes,5,Stable
+3/28/2023 21:59:26,Above 40,Female,Yes,Yes,No,Yes,Yes,Reading Books,Yes,4,Stable
+3/28/2023 22:16:44,20-30,Female,Yes,Yes,No,Yes,Yes,Talking with someone,Yes,3,Stable
+3/28/2023 22:50:26,20-30,Female,No,No,No,No,Yes,Reading Books,Yes,4,Stable
+3/29/2023 6:24:27,Above 40,Female,No,No,No,No,Yes,Playing Games,Yes,1,Joyful
+3/29/2023 6:26:14,Above 40,Female,No,No,No,No,Yes,Playing Games,Yes,1,Joyful
+3/29/2023 8:07:40,Above 40,Male,No,No,No,Yes,No,Playing Games,No,2,Stable
+3/29/2023 13:04:07,Above 40,Female,No,No,No,No,Yes,Playing Games,Yes,1,Joyful
+3/29/2023 16:27:36,20-30,Female,Yes,Yes,Yes,No,No,Playing Games,No,3,Stressful/Depressed
+3/30/2023 18:01:14,20-30,Male,Yes,No,Yes,No,No,Playing Games,Yes,2,Stressful/Depressed
