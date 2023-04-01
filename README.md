@@ -1,2 +1,3 @@
 # Stress-Buster
-Web Application
+
+Our app is live at: https://isabellapj.github.io/Stress-Buster/
